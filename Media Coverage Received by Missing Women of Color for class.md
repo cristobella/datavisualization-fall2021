@@ -8,18 +8,31 @@ Another angle that has not been examined is looking media coverage of missing wh
 
 ### Links to articles that have already been done
 [I Know All Too Well How a Lovely Relationship Can Descend Into Abuse](https://www.nytimes.com/2021/09/30/opinion/gabby-petito-domestic-abuse.html?referringSource=articleShare)
+
 [News Media Can’t Shake Missing White Girl Syndrome](https://www.nytimes.com/2021/09/22/business/media/gabby-petito-missing-white-woman-syndrome.html)
+
 [It’s OK to want justice for Gabby Petito and acknowledge the thousands still missing. We should.](https://www.usatoday.com/story/opinion/columnist/2021/09/22/gabby-petito-found-missing-people-color/5798347001/)
+
 [What help can states offer when women of color go missing?](https://19thnews.org/2021/09/what-help-can-states-offer-when-women-of-color-go-missing/)
+
 [Gabby Petito case example of 'missing white woman syndrome,' experts say](https://abcnews.go.com/GMA/News/gabby-petito-case-missing-white-woman-syndrome-experts/story?id=80144611)
+
 [What We Know (And Don’t Know) About Missing White Woman Syndrome](https://www.npr.org/sections/codeswitch/2017/04/13/523769303/what-we-know-and-dont-know-about-missing-white-women-syndrome)
+
 [How prejudice affects official search for missing Indigenous women, other women of color](https://www.pbs.org/newshour/show/how-prejudice-affects-official-search-for-missing-indigenous-women-other-women-of-color)
+
 [Experts say the 'Missing White Woman Syndrome' leaves girls of color disproportionately out of news coverage](https://www.insider.com/experts-missing-women-of-color-are-not-centered-news-coverage-2021-9)
+
 [As the Petito case grips the nation, families of color say their missing loved ones matter, too](https://www.washingtonpost.com/nation/2021/09/22/missing-persons-families-seek-help-after-gabby-petito-death/)
+
 [A throng of internet sleuths are on the Gabby Petito case. Why has it sparked so much interest?](https://www.washingtonpost.com/nation/2021/09/18/gabby-petito-case-tiktok-sleuths/)
+
 [Violence Against American Indian and Alaska Native Men and Women](https://www.ojp.gov/pdffiles1/nij/249822.pdf)
+
 [Missing White Woman Syndrome: An Empirical Analysis of Race and Gender Disparities in Online News Coverage of Missing Persons](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7586&context=jclc)
+
 [Social Media Spread the Story of Washington's Missing Girls. It Also Got It Wrong.](https://time.com/4715136/dc-missing-girls-social-media/)
+
 
 ### Datasets we could use: trustworthiness and limitations
 [Missing and Murdered Indigenous People: Statewide Report Wyoming](https://wysac.uwyo.edu/wysac/reports/View/7713)
