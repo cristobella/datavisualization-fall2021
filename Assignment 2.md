@@ -20,6 +20,7 @@ One angle that has not been examined is how the media coverage of missing women 
 * [As the Petito case grips the nation, families of color say their missing loved ones matter, too](https://www.washingtonpost.com/nation/2021/09/22/missing-persons-families-seek-help-after-gabby-petito-death/)
 * [A throng of internet sleuths are on the Gabby Petito case. Why has it sparked so much interest?](https://www.washingtonpost.com/nation/2021/09/18/gabby-petito-case-tiktok-sleuths/)
 * [The Long American History of “Missing White Woman Syndrome”](https://www.newyorker.com/news/q-and-a/the-long-american-history-of-missing-white-woman-syndrome?utm_campaign=likeshopme&client_service_id=31202&utm_social_type=owned&utm_brand=tny&service_user_id=1.78e+16&utm_content=instagram-bio-link&utm_source=instagram&utm_medium=social&client_service_name=the%20new%20yorker&supported_service_name=instagram_publishing)
+* ['Missing White Woman Syndrome': Indigenous people point out disparities in Gabby Petito case](https://www.greatfallstribune.com/story/news/2021/09/23/gabby-petito-indigenous-people-point-out-disparities-missing-white-woman-syndrome-mmiw/5827651001/)
 
 ### Datasets we could use: trustworthiness and limitations
 [Missing and Murdered Indigenous People: Statewide Report Wyoming](https://wysac.uwyo.edu/wysac/reports/View/7713)
