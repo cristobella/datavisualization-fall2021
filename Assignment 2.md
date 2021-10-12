@@ -55,6 +55,10 @@ Using data from the National Crime Information Center, the FBI released data on 
 This dataset is trustworthy because the FBI is a national agency that has access to comprehensive information that includes nationwide data and trends. 
 One limitation to the dataset is that in its categorization of missing persons by race, the data only lists four races and a classification for “unknown” race. This could make it difficult to identify the number of missing people of color from the dataset because it does not explicitly state the number of missing Indigenous or other people of color. 
 
+[Missing and Murdered Indigenous Women and Girls: A snapshot of data from 71 urban cities in the United States](https://ncvc.dspacedirect.org/handle/20.500.11990/1000)
+
+The Urban Indian Health Institute report contains many findings, focusing on cases of missing and murdered indigenous women and girls across 71 cities in 2018. Notably, for our purposes, they found that more than 95% of the cases in their study did not receive national or international news attention. The data set is trustworthy because the Urban Indian Health Institute is a division of the Seattle Indian Health Institute that conducts research, collects data, and tracks disesases for indigenous communities across the country. The biggest limitation, addressed on the second page of the report, is that the data on missing and murdered indigenous women and girls is lagging as a whole, and many agencies did not cooperate with UIHI's data requests. For the purposes of their report, UIHI revealed that 14 police agencies surveyed did not provide data, and 18 still had pending FOIA requests as of the UIHI's cutoff date.
+
 [Washington, D.C. Metropolitan Police Department Currently Missing.](https://missing.dc.gov/missingprofiles/2021)
 
 [Washington, D.C. Metropolitan Police Department Missing Persons Statistics.](https://missing.dc.gov/page/statistics-missing)
