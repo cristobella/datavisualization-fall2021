@@ -36,23 +36,29 @@ Another angle that has not been examined is looking media coverage of missing wh
 
 ### Datasets we could use: trustworthiness and limitations
 [Missing and Murdered Indigenous People: Statewide Report Wyoming](https://wysac.uwyo.edu/wysac/reports/View/7713)
+
 The data shows that 710 Indigenous people were reported missing in the state of Wyoming between 2011 and 2020. The analysis assesses media coverage received in these missing persons cases and researchers concluded that media coverage of Indigenous folks and people of color was less than that received by missing white people. 
 This dataset is trustworthy because it collects and analyzes data on homicides and missing Indigenous persons from a variety of local and national organizations and databases including the National Crime Information Center, the National Missing and Unidentified Persons System, and the Wyoming Division of Criminal Investigation, among others. 
 One potential limitation to the dataset is that the data only shows the number of missing people in a specific racial group in a single state. These limited parameters allow for the survey and analysis of data on a small population of missing people of color, but cannot be understood to reflect national data or trends. 
 Another potential limitation is potential errors within the data itself. The researchers note that databases varied in the terms they use to identify Indigenous people, which could have created confusion or miscommunication when compiling information. 
 
 [Newsworthiness of Missing Persons Cases: An Analysis of Selection Bias, Disparities in Coverage, and the Narrative Framework of the News Report](https://www.tandfonline.com/doi/abs/10.1080/01639625.2016.1197618)
+
 Two researchers from the University of South Florida studied the levels of media attention allotted to missing persons cases and concluded that “disparities in coverage were seen based on race and age.” Their study looks specifically at missing persons cases in Louisiana from 2009 to 2013. The researchers analyzed the data for case characteristics as it relates to media coverage and the number of media reports that reference a missing persons case. 
 This dataset is trustworthy because it collects and analyzes data on missing persons in Louisiana from both local and national missing persons databases. The dataset includes information from Identify Louisiana and the National Missing and Unidentified Persons System. 
 One potential limitation of the dataset is that the data only shows the number of missing persons over a five-year period in a single state. This narrow snapshot of information allows for the survey of Louisiana from 2009 to 2013, but does not account for national data or trends. 
 Another potential limitation is errors in the data. The researchers acknowledge that not all missing persons cases in Louisiana are included on these websites. This indicates the potential for inaccuracy in conclusions drawn from an inaccurate reporting of the number of missing persons.   
 
 [2020 NCIC Missing Person and Unidentified Person Statistics](https://www.fbi.gov/file-repository/2020-ncic-missing-person-and-unidentified-person-statistics.pdf/view)
+
 Using data from the National Crime Information Center, the FBI released data on missing and unidentified persons for 2020. The analysis breaks down 2020 missing person cases into different categories to allow for analysis based on criteria such as age, sex, and race. The data shows a disparity in the number of missing people of color versus white people.
 This dataset is trustworthy because the FBI is a national agency that has access to comprehensive information that includes nationwide data and trends. 
 One limitation to the dataset is that in its categorization of missing persons by race, the data only lists four races and a classification for “unknown” race. This could make it difficult to identify the number of missing people of color from the dataset because it does not explicitly state the number of missing Indigenous or other people of color. 
 
-[Washington, D.C. Metropolitan Police Department Currently Missing.](https://missing.dc.gov/missingprofiles/2021)[Washington, D.C. Metropolitan Police Department Missing Persons Statistics.](https://missing.dc.gov/page/statistics-missing)
+[Washington, D.C. Metropolitan Police Department Currently Missing.](https://missing.dc.gov/missingprofiles/2021)
+
+[Washington, D.C. Metropolitan Police Department Missing Persons Statistics.](https://missing.dc.gov/page/statistics-missing)
+
 These resources would be helpful if the story is hyperlocalized to Washington, D.C. 
 The Washington, D.C. Metropolitan Police Department releases profiles for each missing person with an open case on their website. The department also publishes updated missing persons statistics on their website Monday through Friday. Each missing person's profile details race and other identifying characteristics. The missing persons cases are categorized by year, depending on when the person was reported missing. Based on information on the webpage displaying profiles for people who went missing in Washington, D.C. in 2021, a higher number of women of color are missing in comparison to white women. 
 This dataset is trustworthy because the information comes directly from the law enforcement agency that would intake missing persons reports for Washington, D.C. The department's frequent updates made to the missing persons increase the likelihood that the data will be up to date with the current number of missing persons. 
