@@ -1,23 +1,24 @@
 [Link to markdown](https://github.com/cristobella/datavisualization-fall2021/blob/aa371ca29b21476edb2ec9d4aecde8603d95672a/Media%20Coverage%20Received%20by%20Missing%20Women%20of%20Color%20for%20class.md)
 
 # Media Coverage Received by Missing Women of Color Markdown for Class
-## by Cristobella Durrette and Jeannie Kopstein
+## by Cristobella Durrette, Jeannie Kopstein, Zoya Mirza and Courtney Degen
 
 ### Summary of what has and hasn't already been done
 The missing persons case of 22-year-old social media influencer Gabby Petito garnered national media attention and raised questions about the news coverage missing women of color receive. The articles below discuss how missing women of color receive less press coverage than missing white women. This disparity, frequently dubbed ‘Missing White Woman Syndrome,’ is explored beyond the current moment in the immediate aftermath of the Petito search to demonstrate how it has persisted for decades. Several articles also mention the potential impact that a lack of media coverage could have on solving the missing persons cases of women of color. 
 One angle that has not been examined is how the media coverage of missing women of color changes when the case of a missing white woman garners national media attention. As news outlets across the nation began covering Gabby Petito’s case, questions began surfacing about **why** Petito gained national media attention, while missing women of color did not. This led some news outlets to publish other articles covering the missing persons cases of people of color. However, none of the articles mention how the rate of coverage given to missing women of color changes during and after the case of a missing white woman makes national news. We would be curious to know how the amount of coverage changes as more time passes from the time when a missing white woman’s case becomes news. 
 
 ### Links to articles that have already been done
-[I Know All Too Well How a Lovely Relationship Can Descend Into Abuse](https://www.nytimes.com/2021/09/30/opinion/gabby-petito-domestic-abuse.html?referringSource=articleShare)
-[News Media Can’t Shake Missing White Girl Syndrome](https://www.nytimes.com/2021/09/22/business/media/gabby-petito-missing-white-woman-syndrome.html)
-[It’s OK to want justice for Gabby Petito and acknowledge the thousands still missing. We should.](https://www.usatoday.com/story/opinion/columnist/2021/09/22/gabby-petito-found-missing-people-color/5798347001/)
-[What help can states offer when women of color go missing?](https://19thnews.org/2021/09/what-help-can-states-offer-when-women-of-color-go-missing/)
-[Gabby Petito case example of 'missing white woman syndrome,' experts say](https://abcnews.go.com/GMA/News/gabby-petito-case-missing-white-woman-syndrome-experts/story?id=80144611)
-[What We Know (And Don’t Know) About Missing White Woman Syndrome](https://www.npr.org/sections/codeswitch/2017/04/13/523769303/what-we-know-and-dont-know-about-missing-white-women-syndrome)
-[How prejudice affects official search for missing Indigenous women, other women of color](https://www.pbs.org/newshour/show/how-prejudice-affects-official-search-for-missing-indigenous-women-other-women-of-color)
-[Experts say the 'Missing White Woman Syndrome' leaves girls of color disproportionately out of news coverage](https://www.insider.com/experts-missing-women-of-color-are-not-centered-news-coverage-2021-9)
-[As the Petito case grips the nation, families of color say their missing loved ones matter, too](https://www.washingtonpost.com/nation/2021/09/22/missing-persons-families-seek-help-after-gabby-petito-death/)
-[A throng of internet sleuths are on the Gabby Petito case. Why has it sparked so much interest?](https://www.washingtonpost.com/nation/2021/09/18/gabby-petito-case-tiktok-sleuths/)
+* [I Know All Too Well How a Lovely Relationship Can Descend Into Abuse](https://www.nytimes.com/2021/09/30/opinion/gabby-petito-domestic-abuse.html?referringSource=articleShare)
+* [News Media Can’t Shake Missing White Girl Syndrome](https://www.nytimes.com/2021/09/22/business/media/gabby-petito-missing-white-woman-syndrome.html)
+* [It’s OK to want justice for Gabby Petito and acknowledge the thousands still missing. We should.](https://www.usatoday.com/story/opinion/columnist/2021/09/22/gabby-petito-found-missing-people-color/5798347001/)
+* [What help can states offer when women of color go missing?](https://19thnews.org/2021/09/what-help-can-states-offer-when-women-of-color-go-missing/)
+* [Gabby Petito case example of 'missing white woman syndrome,' experts say](https://abcnews.go.com/GMA/News/gabby-petito-case-missing-white-woman-syndrome-experts/story?id=80144611)
+* [What We Know (And Don’t Know) About Missing White Woman Syndrome](https://www.npr.org/sections/codeswitch/2017/04/13/523769303/what-we-know-and-dont-know-about-missing-white-women-syndrome)
+* [How prejudice affects official search for missing Indigenous women, other women of color](https://www.pbs.org/newshour/show/how-prejudice-affects-official-search-for-missing-indigenous-women-other-women-of-color)
+* [Experts say the 'Missing White Woman Syndrome' leaves girls of color disproportionately out of news coverage](https://www.insider.com/experts-missing-women-of-color-are-not-centered-news-coverage-2021-9)
+* [As the Petito case grips the nation, families of color say their missing loved ones matter, too](https://www.washingtonpost.com/nation/2021/09/22/missing-persons-families-seek-help-after-gabby-petito-death/)
+* [A throng of internet sleuths are on the Gabby Petito case. Why has it sparked so much interest?](https://www.washingtonpost.com/nation/2021/09/18/gabby-petito-case-tiktok-sleuths/)
+* [The Long American History of “Missing White Woman Syndrome”](https://www.newyorker.com/news/q-and-a/the-long-american-history-of-missing-white-woman-syndrome?utm_campaign=likeshopme&client_service_id=31202&utm_social_type=owned&utm_brand=tny&service_user_id=1.78e+16&utm_content=instagram-bio-link&utm_source=instagram&utm_medium=social&client_service_name=the%20new%20yorker&supported_service_name=instagram_publishing)
 
 ### Datasets we could use: trustworthiness and limitations
 [Missing and Murdered Indigenous People: Statewide Report Wyoming](https://wysac.uwyo.edu/wysac/reports/View/7713)
