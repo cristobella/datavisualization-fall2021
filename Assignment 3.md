@@ -1,7 +1,7 @@
 ## by Cristobella Durrette, Jeannie Kopstein, Zoya Mirza, and Courtney Degen
 
 # Data 
-The data our group cleaned comes from the National Center for Missing and Exploited Childre and displays information for people reported missing from 1984 to 2017.
+The data our group cleaned comes from the National Center for Missing and Exploited Children and displays information for people reported missing from 1984 to 2017.
 
 [Original data set](https://github.com/cristobella/datavisualization-fall2021/blob/2b2f674ed404254adfb2e9bc2cfb52c1837f0416/Assignment%203%20Original%20Data%20Set.csv)
 
