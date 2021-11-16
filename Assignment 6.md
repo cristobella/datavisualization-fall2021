@@ -2,7 +2,7 @@
 
 I created this grouped column chart using Datawrapper. 
 
-[Cocoa Bean Imports](https://datawrapper.dwcdn.net/Giz4v/1/)
+[Cocoa Bean Imports](https://datawrapper.dwcdn.net/Giz4v/2/)
 
 ## Process
 
