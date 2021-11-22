@@ -23,7 +23,7 @@ Previously, there seemed to be consensus among Democrats that increasing access 
 
 However, this year’s increased voter turnout was most beneficial for the Republican candidate, as Youngkin earned nearly 500,000 more votes than 2017 Republican candidate Edward Gillespie, and over 650,000 votes more than 2013 Republican candidate Ken Cuccinelli.
 
-CHART
+<iframe title="Virginia Gubernatorial Election Results 2013-2021" aria-label="Stacked Bars" id="datawrapper-chart-iC7N8" src="https://datawrapper.dwcdn.net/iC7N8/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="230"></iframe>
 
 McAuliffe still earned almost 200,000 votes more than Gov. Northam in 2017, and nearly 600,000 more than he did in 2013, but the increase wasn’t enough to earn him a victory.
 
@@ -43,7 +43,7 @@ According to [exit polls](https://www.washingtonpost.com/elections/interactive/2
 
 Though Virginia went blue for President Biden in 2020, a dozen counties flipped red this November, helping Youngkin take the governorship.
 
-DATA VIZ MAP
+<div class='tableauPlaceholder' id='viz1637607217107' style='position: relative'><noscript><a href='#'><img alt='Virginia Shifts Right in 2021 Gubernatorial Race ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;VA&#47;VAShiftTowardRepublican&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VAShiftTowardRepublican&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;VA&#47;VAShiftTowardRepublican&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>         
 
 For certain counties, this flip was expected, said Lakshya Jain, a lecturer at the University of California, Berkeley and contributor at Sabato’s Crystal Ball, a political newsletter run by the Center for Politics at the University of Virginia.
 
