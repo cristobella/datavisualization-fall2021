@@ -3,6 +3,7 @@
 by Courtney Degen, Cristobella Durrette, Jeannie Kopstein, and Zoya Mirza <br>
 
 </br>
+
 WASHINGTON — Republican Glenn Youngkin drew more than 1.6 million votes in his run for governor this November, defeating previous Democratic Gov. Terry McAuliffe and signaling a shift right for Virginia.
 
 In a state Biden won by [10 percentage points](https://www.washingtonpost.com/elections/election-results/virginia-2020/) last year, 12 Virginia counties flipped for Youngkin and nearly every county saw a shift to the right, allowing him to win by [almost two percentage points](https://results.elections.virginia.gov/vaelections/2021%20November%20General/Site/Statewide.html). This year’s election also saw significantly higher Republican turnout than previous gubernatorial races in Virginia, increasing the number of votes for the Republican candidate by half a million since 2017 and by over 650,000 since 2013. 
@@ -23,7 +24,7 @@ Previously, there seemed to be consensus among Democrats that increasing access 
 
 However, this year’s increased voter turnout was most beneficial for the Republican candidate, as Youngkin earned nearly 500,000 more votes than 2017 Republican candidate Edward Gillespie, and over 650,000 votes more than 2013 Republican candidate Ken Cuccinelli.
 
-<iframe title="Virginia Gubernatorial Election Results 2013-2021" aria-label="Stacked Bars" id="datawrapper-chart-iC7N8" src="https://datawrapper.dwcdn.net/iC7N8/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="230"></iframe>
+<iframe title="Virginia Gubernatorial Election Results 2013-2021" aria-label="Stacked Bars" id="datawrapper-chart-iC7N8" src="https://datawrapper.dwcdn.net/iC7N8/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="230"> </iframe>
 
 McAuliffe still earned almost 200,000 votes more than Gov. Northam in 2017, and nearly 600,000 more than he did in 2013, but the increase wasn’t enough to earn him a victory.
 
@@ -55,7 +56,7 @@ What stood out, he added, was the overall shift in Republican support from 2020 
 
 Voter turnout differs greatly between presidential races and gubernatorial races, but the shift right speaks to former President Donald Trump’s impact on previous presidential elections. 
 
-“I buy that there were quite a bit of just like, anti-Trump, Biden voters only [in 2020]. Typically, what we tend to see is that presidential partisanship shifts first and then down ballot shifts later.” Jain said, suggesting there were many Republicans who voted for Biden and then for Youngkin the following year. 
+“I buy that there were quite a bit of just like, anti-Trump, Biden voters only [in 2020]. Typically, what we tend to see is that presidential partisanship shifts first and then down ballot shifts later,” Jain said, suggesting there were many Republicans who voted for Biden and then for Youngkin the following year. 
 
 Holloway said the same, adding that Youngkin’s messaging on the importance of parental input in schools “resonated with those swing voters who may be traditionally Republican voters but had gone over and voted Democrat in 2016 and 2020.”
 
