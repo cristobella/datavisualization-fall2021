@@ -8,7 +8,7 @@ WASHINGTON — Republican Glenn Youngkin drew more than 1.6 million votes in his
 
 In a state Biden won by [10 percentage points](https://www.washingtonpost.com/elections/election-results/virginia-2020/) last year, 12 Virginia counties flipped for Youngkin and nearly every county saw a shift to the right, allowing him to win by [almost two percentage points](https://results.elections.virginia.gov/vaelections/2021%20November%20General/Site/Statewide.html). This year’s election also saw significantly higher Republican turnout than previous gubernatorial races in Virginia, increasing the number of votes for the Republican candidate by half a million since 2017 and by over 650,000 since 2013. 
 
-Isabel Holloway, an Emerson College polling analyst, said there was generally more “Republican excitement and enthusiasm to vote in (this year’s) election.”
+Isabel Holloway, an Emerson College polling analyst, said there was generally more “Republican excitement and enthusiasm to vote in [this year’s] election.”
 
 “The Democrats thought that because McAuliffe was such a known name in the state that would give him an inherent advantage,” Holloway said. “That doesn't appear to be true, especially with the rising negative sentiment towards the Democrats who are currently in charge of the White House, the Senate and the House. It just wasn't enough.”
 
