@@ -24,7 +24,7 @@ Previously, there seemed to be consensus among Democrats that increasing access 
 
 However, this year’s increased voter turnout was most beneficial for the Republican candidate, as Youngkin earned nearly 500,000 more votes than 2017 Republican candidate Edward Gillespie, and over 650,000 votes more than 2013 Republican candidate Ken Cuccinelli.
 
-! [image info](Images/Virginia Gubernatorial Election Results.png)
+![](https://github.com/shmcminn/datavisualization-fall2021-1/blob/main/Images/VA%20Gubernatorial%20Election%20Results.png?raw=true)
 
 McAuliffe still earned almost 200,000 votes more than Gov. Northam in 2017, and nearly 600,000 more than he did in 2013, but the increase wasn’t enough to earn him a victory.
 
