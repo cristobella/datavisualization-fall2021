@@ -59,7 +59,7 @@ Voter turnout differs greatly between presidential races and gubernatorial races
 
 Holloway said the same, adding that Youngkin’s messaging on the importance of parental input in schools “resonated with those swing voters who may be traditionally Republican voters but had gone over and voted Democrat in 2016 and 2020.”
 
-McAuliffe tried to appeal to anti-Trump voters, focusing much of his advertising on associating Youngkin with Trump. According to [data from AdImpact](McAuliffe tried to appeal to anti-Trump voters, focusing much of his advertising on associating Youngkin with Trump. According to data from [AdImpact](https://cookpolitical.com/analysis/governors/virginia-governor/what-will-we-learn-virginia-governors-race), 13 out of 36 ads run from McAuliffe’s campaign since June linked his Republican opponent to Trump. ), 13 out of 36 ads run from McAuliffe’s campaign since June linked his Republican opponent to Trump. 
+McAuliffe tried to appeal to anti-Trump voters, focusing much of his advertising on associating Youngkin with Trump. According to data from [AdImpact](https://cookpolitical.com/analysis/governors/virginia-governor/what-will-we-learn-virginia-governors-race), 13 out of 36 ads run from McAuliffe’s campaign since June linked his Republican opponent to Trump. 
 
 “When I was governor last time, I worked with reasonable Republicans to get things done,” said McAuliffe in his [first TV ad](https://www.youtube.com/watch?app=desktop&v=08YMR7NgANI) for the general election following his nomination from the Democratic party. “But let me be clear, Glenn Youngkin is not a reasonable Republican. He is a loyalist to Donald Trump.”
 
